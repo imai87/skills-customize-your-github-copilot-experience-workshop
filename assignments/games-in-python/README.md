@@ -2,7 +2,7 @@
 
 # 📘 Assignment: Hangman Game
 
-## 🎯 Objetivo
+## 🎯 Objetivos
 
 Construa o clássico jogo da forca usando Python, praticando manipulação de strings, laços, condicionais e entrada do usuário.
 
